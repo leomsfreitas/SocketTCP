@@ -22,6 +22,7 @@ The project's objective is to implement socket-based communication between multi
 ```
 ├── server.py
 ├── client.py
+├── config.py
 ├── documentacao.pdf
 └── README.md
 ```
@@ -31,6 +32,7 @@ The project's objective is to implement socket-based communication between multi
 - Python
 - socket
 - threading
+- config.py for centralized HOST and PORT settings
 
 ## How to run locally
 
