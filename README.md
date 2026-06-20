@@ -1,6 +1,6 @@
 # ChatTCP - Real-Time Chat with TCP Sockets
 
-This project presents a real-time chat application using Python and TCP sockets, built as a practical exercise in socket programming for a Computer Networks course.
+This project presents a real-time chat application using Python and TCP sockets, built as a practical exercise in socket programming for a Computer Networks class.
 
 The repository implements a multi-client server-client architecture where a central server accepts simultaneous connections, manages connected users, and broadcasts messages across all active sessions.
 
